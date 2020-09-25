@@ -1,11 +1,11 @@
 Relatório semanal
 
 Relatar O QUE FOI FEITO:
--
--
+- Foi apresentado o projeto/concepção para a turma;
+- Foi discutido pela equipe as tecnologias e tematica do jogo, para deixarmos tudo claro antes de inicar o desenvolvimento.
 -
 
 Relatar QUEM FOI O RESPONSÁVEL
--
--
+- Gustavo, Diogo e José, realizaram a configuração do ambiente para o desenvolvimento;
+- Estudamos o projeto inical do Unity como "tutorial" para nos familiarizar com o ambiente da plataforma.
 -
