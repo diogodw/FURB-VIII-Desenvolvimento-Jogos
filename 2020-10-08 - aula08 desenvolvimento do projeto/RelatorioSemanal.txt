@@ -1,11 +1,10 @@
 Relatório semanal
 
 Relatar O QUE FOI FEITO:
--
--
--
+- Foi adicionado o inimigo.
+- Corrigido os tiros.
+- Colisão do inimigo com o player.
 
 Relatar QUEM FOI O RESPONSÁVEL
--
--
--
+- Diogo e José - Programação.
+- Gustavo - Assets
