@@ -1,11 +1,8 @@
 Relatório semanal
 
 Relatar O QUE FOI FEITO:
--
--
--
+- Foram criados os controles inimigos e todos seus controladores: vida, colisao e nascimento;
+- Foi compartilhado pelo Unity Hub o projeto para que todos da equipe tenham acesso.
 
 Relatar QUEM FOI O RESPONSÁVEL
--
--
--
+- Todos da equipes auxiliaram para alcançar o objetivo
