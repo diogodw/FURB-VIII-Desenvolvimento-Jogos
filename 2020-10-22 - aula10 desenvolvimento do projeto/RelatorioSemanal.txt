@@ -1,11 +1,15 @@
 Relatório semanal
 
 Relatar O QUE FOI FEITO:
--
--
--
+- Adicionamos barra de vida;
+- Alteramos mecânica de spawn dos inimigos;
+- Alteramos a fonte das letras;
+- Adicionamos o símbolo na contagem de score;
+- Adicionamos o Atila para o "tutorial";
+- Mostramos o score no "game over";
+- Tela de "game over";
+- Adicionamos menu;
 
 Relatar QUEM FOI O RESPONSÁVEL
--
--
--
+- Gustavo fez os assets e ajudou na programação
+- José e Diogo fizeram programação
