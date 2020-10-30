@@ -1,11 +1,19 @@
 Relatório semanal
 
 Relatar O QUE FOI FEITO:
--
--
--
+- Adicionamos pause/resume game
+- Explosão no vírus maior
+- Efeitos no power up de invulnerabilidade
+- Troca das imagens de fundo
+- Mensagens do Atila
+- Alteramos as regras da dificuldade do jogo
+- Otimização
+- Trocamos o icone do power up dos tiros para a logo do SUS
+- Correção de alguns bugs
+- Adicionada a contagem de waves no HUD
 
 Relatar QUEM FOI O RESPONSÁVEL
--
--
--
+- Diogo - programação
+- Gustavo e José - Auxílio na programação
+- Gustavo - Assets
+- José - Game Design
