@@ -1,11 +1,14 @@
 Relatório semanal
 
 Relatar O QUE FOI FEITO:
--
--
--
+- Adicionamos efeito sonoros nos disparos, eliminação dos vírus e obtenção dos power-ups;
+- Adicionamos música de fundo;
+- Adicionamos um fundo no placar, para melhorar visualização;
+- Adicionamos música de game over;
+- Ajustamos as imagens para full-screen;
+- Correção de alguns bugs;
 
 Relatar QUEM FOI O RESPONSÁVEL
--
--
--
+- Diogo - programação;
+- Gustavo - procura e edição de som;
+- José - procura e edição de som;
