@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - PowerUp
+  - Shoot
   layers:
   - Default
   - TransparentFX
@@ -16,7 +18,7 @@ TagManager:
   - 
   - ' PlayerBounds'
   - Enemy
-  - 
+  - Background
   - 
   - 
   - 
@@ -39,6 +41,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 765861565
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

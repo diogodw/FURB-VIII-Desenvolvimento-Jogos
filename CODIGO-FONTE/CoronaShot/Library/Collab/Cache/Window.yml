@@ -14,10 +14,96 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Audio.meta
+    - Assets/Audio/ES_Caribbean Arcade - Christian Nanzell.mp3
+    - Assets/Audio/ES_Caribbean Arcade - Christian Nanzell.mp3.meta
+    - Assets/Audio/ES_National Anthem Brazil - National Anthem Worx.mp3
+    - Assets/Audio/ES_National Anthem Brazil - National Anthem Worx.mp3.meta
+    - Assets/Audio/Final.mp3
+    - Assets/Audio/Final.mp3.meta
+    - Assets/Audio/MorteCorona.mp3
+    - Assets/Audio/MorteCorona.mp3.meta
+    - Assets/Audio/SUS.mp3
+    - Assets/Audio/SUS.mp3.meta
+    - Assets/Audio/Tiro1.mp3
+    - Assets/Audio/Tiro1.mp3.meta
+    - Assets/Audio/cloroquinaReal.mp3
+    - Assets/Audio/cloroquinaReal.mp3.meta
+    - Assets/Audio/mascara.mp3
+    - Assets/Audio/mascara.mp3.meta
+    - Assets/Background.cs
+    - Assets/Background.cs.meta
+    - Assets/Enemy.cs
+    - Assets/FinalScorePref.cs
+    - Assets/Killzone.cs
+    - Assets/Menu.cs
+    - Assets/Menu.cs.meta
+    - Assets/Player.cs
+    - Assets/PlayerPrefText.cs
+    - Assets/PowerUp.cs
+    - Assets/PowerUp.cs.meta
+    - Assets/Prefabs/Boost.prefab
+    - Assets/Prefabs/Boost.prefab.meta
+    - Assets/Prefabs/Cloroquina.prefab
+    - Assets/Prefabs/Cloroquina.prefab.meta
+    - Assets/Prefabs/Enemy.prefab
+    - Assets/Prefabs/Mask.prefab
+    - Assets/Prefabs/Mask.prefab.meta
+    - Assets/Prefabs/QuitButton.prefab
+    - Assets/Prefabs/QuitButton.prefab.meta
+    - Assets/Prefabs/Shoot.prefab
+    - Assets/Prefabs/StartButton.prefab
+    - Assets/Prefabs/StartButton.prefab.meta
+    - Assets/Prefabs/StrongEnemy.prefab
+    - Assets/Resources.meta
+    - Assets/Resources/Backgrounds.meta
+    - Assets/Resources/Backgrounds/Game.meta
+    - Assets/Resources/Backgrounds/Game/background1.jpg
+    - Assets/Resources/Backgrounds/Game/background1.jpg.meta
+    - Assets/Resources/Backgrounds/Game/background2.jpg
+    - Assets/Resources/Backgrounds/Game/background2.jpg.meta
+    - Assets/Resources/Backgrounds/Game/background3.jpg
+    - Assets/Resources/Backgrounds/Game/background3.jpg.meta
+    - Assets/Resources/Backgrounds/Game/background4.jpg
+    - Assets/Resources/Backgrounds/Game/background4.jpg.meta
+    - Assets/Resources/Backgrounds/Game/background5.jpg
+    - Assets/Resources/Backgrounds/Game/background5.jpg.meta
+    - Assets/Resources/Backgrounds/backgroundMenu.jpg
+    - Assets/Resources/Backgrounds/backgroundMenu.jpg.meta
+    - Assets/Resources/Player.meta
+    - Assets/Resources/Player/Invulnerable.png
+    - Assets/Resources/Player/Invulnerable.png.meta
+    - Assets/Resources/Player/Normal.png
+    - Assets/Resources/Player/Normal.png.meta
+    - Assets/Scenes/Game.unity
+    - Assets/Scenes/GameOver.unity
+    - Assets/Scenes/Menu.unity
+    - Assets/Scripts/Manager.cs
+    - Assets/Scripts/Manager.cs.meta
+    - Assets/Scripts/MenuActions.cs
+    - Assets/Scripts/Singleton.cs
+    - Assets/Scripts/Singleton.cs.meta
+    - Assets/Shoot.cs
+    - Assets/Spawn.cs
+    - Assets/Sprite/Alcool_2.0.png.meta
+    - Assets/Sprite/boom-grandao.png
+    - Assets/Sprite/boom-grandao.png.meta
+    - Assets/Sprite/boom.png
+    - Assets/Sprite/boom.png.meta
+    - Assets/Sprite/cloroquina.png
+    - Assets/Sprite/cloroquina.png.meta
+    - Assets/Sprite/mask.png
+    - Assets/Sprite/mask.png.meta
+    - Assets/Sprite/pow.png
+    - Assets/Sprite/pow.png.meta
+    - Assets/Sprite/sus.png
+    - Assets/Sprite/sus.png.meta
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
     - 
-    m_Values: 01
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
-  SelectedHistoryRevision: 55402cc9bd444bcda00b03a61bb25ab47099c042
+  SelectedHistoryRevision: 
   HistoryPageNumber: 0
-  TabIndex: 1
+  TabIndex: 0
